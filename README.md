@@ -1,7 +1,7 @@
 TestLeak
 ========
 
-**This leak is fixed since iOS 7**
+**This leak is fixed since _[redacted]_**
 
 A reduced repro of the NSCachedURLResponse memory leak documented at https://github.com/steipete/SDURLCache/issues/7
 
